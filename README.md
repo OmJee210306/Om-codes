@@ -10,7 +10,7 @@
 - 📊 Data Visualization & Analytics
 - 🎯 Product Management Strategies
 <p align="left">
-  <img src="https://raw.githubusercontent.com/OmJee210306/om-codes/main/animated_battle_smaller.gif" width="200" align="right"> 
+  <img src="https://raw.githubusercontent.com/OmJee210306/om-codes/main/animated_battle_resized.gif" width="420" align="right"> 
 </p>
 
 
