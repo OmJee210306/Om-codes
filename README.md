@@ -10,6 +10,8 @@
 - 📊 Data Visualization & Analytics
 - 🎯 Product Management Strategies
 
+[Animated Battle](https://github.com/OmJee210306/Om-codes/raw/main/animated_battle_movement.gif)
+
 ## 📬 Let's Connect!
 [![LinkedIn](www.linkedin.com/in/om-jee-185851299)]
 [![Instagram](https://www.instagram.com/_omnotfound/)]
