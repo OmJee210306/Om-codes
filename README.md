@@ -9,8 +9,11 @@
 - 🧠 Machine Learning, AI, and Data Science
 - 📊 Data Visualization & Analytics
 - 🎯 Product Management Strategies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/OmJee210306/om-codes/main/animated_battle_smaller.gif" width="200" align="right"> 
+</p>
 
-[Animated Battle](https://github.com/OmJee210306/Om-codes/raw/main/animated_battle_movement.gif)
+
 
 ## 📬 Let's Connect!
 [![LinkedIn](www.linkedin.com/in/om-jee-185851299)]
